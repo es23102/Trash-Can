@@ -1,0 +1,23 @@
+body { 
+  background-image: url('https://lh3.googleusercontent.com/-ng78XCAMeUA/XHn3ZDLIP1I/AAAAAAAABOY/RciJBD6UgJIpOZX8nsYECL6WYxYI3fC3gCK8BGAs/s512/2019-03-01.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  font-family: 'Freckle Face', cursive;
+}
+
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+img {
+  width: 20%
+}
